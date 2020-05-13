@@ -1,2 +1,2 @@
 # BinToDec
-Binary To Decimal Converter
+Binary To Decimal Java Converter
