@@ -1,7 +1,6 @@
-# BinToDec
-Binary To Decimal Java Converter
+# Bin2Dec - Binary To Decimal Java Converter
 ==================================
-# Bin2Dec
+
 
 **Tier:** 1-Beginner
 
